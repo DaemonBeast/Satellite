@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satellite.Core", "Satellite.Core\Satellite.Core.csproj", "{2510347F-B84B-45D9-A958-FAFBECB324EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satellite.Example", "Satellite.Example\Satellite.Example.csproj", "{2EF63641-0F00-491C-8939-9527E0AAA303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2510347F-B84B-45D9-A958-FAFBECB324EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2510347F-B84B-45D9-A958-FAFBECB324EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2510347F-B84B-45D9-A958-FAFBECB324EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2510347F-B84B-45D9-A958-FAFBECB324EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF63641-0F00-491C-8939-9527E0AAA303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF63641-0F00-491C-8939-9527E0AAA303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF63641-0F00-491C-8939-9527E0AAA303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF63641-0F00-491C-8939-9527E0AAA303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
